@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": 0, "name": "apple", "category": "Grocery", "quantity": 2000, "cost": 0.75 },
+    { "id": 1, "name": "banana", "category": "Grocery", "quantity": 1000, "cost": 1.25 },
+    { "id": 2, "name": "peach", "category": "Grocery", "quantity": 1000, "cost": 1.5 },
+    { "id": 3, "name": "pen", "category": "Stationary", "quantity": 10000, "cost": 1.5 },
+    { "id": 4, "name": "paper", "category": "Stationary", "quantity": 5000, "cost": 5 },
+    { "id": 5, "name": "tape", "category": "Stationary", "quantity": 2000, "cost": 2.5 },
+    { "id": 6, "name": "toothpaste", "category": "Toiletry", "quantity": 10000, "cost": 3.5 },
+    { "id": 7, "name": "toothbrush", "category": "Toiletry", "quantity": 5000, "cost": 5 },
+    { "id": 8, "name": "mouthwash", "category": "Toiletry", "quantity": 2000, "cost": 7.75 },
+    { "id": 9, "name": "lettuce", "category": "Vegetable", "quantity": 10000, "cost": 1.5 },
+    { "id": 10, "name": "potato", "category": "Vegetable", "quantity": 5000, "cost": 1 },
+    { "id": 11, "name": "celery", "category": "Vegetable", "quantity": 2000, "cost": 1.5 }
+  ]
+}
